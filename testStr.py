@@ -1,0 +1,1 @@
+print("jzlN"=='jzlN')
